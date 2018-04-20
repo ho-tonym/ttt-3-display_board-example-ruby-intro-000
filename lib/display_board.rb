@@ -10,7 +10,7 @@ puts cell1+ divider +cell1 +divider + cell1
 puts dashlines
 puts cell1+ divider +cell1 +divider + cell1
 puts dashlines
-puts cell1+ divider +cell1 +divider + cell1
+print cell1+ divider +cell1 +divider + cell1
 
 
 
