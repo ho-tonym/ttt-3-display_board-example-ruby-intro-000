@@ -14,3 +14,4 @@ puts line
 
 
 end
+display_board
