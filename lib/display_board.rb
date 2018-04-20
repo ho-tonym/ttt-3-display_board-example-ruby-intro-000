@@ -3,11 +3,11 @@ puts "Welcome to Tic Tac Toe"
 first_row = [" ","|"," ","|"," "]
 dashlines = "-----------"
 
-puts first_row
-puts dashlines
-puts first_row
-puts dashlines
-puts first_row
+print first_row
+print dashlines
+print first_row
+print dashlines
+print first_row
 
 
 
