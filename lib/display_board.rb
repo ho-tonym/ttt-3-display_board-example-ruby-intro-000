@@ -6,11 +6,11 @@ first_row = [" ","|"," ","|"," "]
 
 dashlines = "-----------"
 
-print cell1+ divider +cell1 +divider + cell1
-print dashlines
-print cell1+ divider +cell1 +divider + cell1
-print dashlines
-print cell1+ divider +cell1 +divider + cell1
+puts cell1+ divider +cell1 +divider + cell1
+puts dashlines
+puts cell1+ divider +cell1 +divider + cell1
+puts dashlines
+puts cell1+ divider +cell1 +divider + cell1
 
 
 
