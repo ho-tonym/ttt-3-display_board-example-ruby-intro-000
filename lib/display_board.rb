@@ -1,13 +1,16 @@
 def display_board
 puts "Welcome to Tic Tac Toe"
+cell1 = "   "
+divider = "|"
 first_row = [" ","|"," ","|"," "]
+
 dashlines = "-----------"
 
-print first_row
+print cell1+ divider +cell1 +divider + cell1
 print dashlines
-print first_row
+print cell1+ divider +cell1 +divider + cell1
 print dashlines
-print first_row
+print cell1+ divider +cell1 +divider + cell1
 
 
 
